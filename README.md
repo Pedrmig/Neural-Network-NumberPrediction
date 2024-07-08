@@ -13,11 +13,11 @@ This repository contains a neural network-based prediction model created using t
 The model architecture is built and visualized using Netron. 
 Below is an example of the visualization:
 
-![Model Architecture]([figura.png](https://github.com/Pedrmig/Neural-Network-NumberPrediction/blob/main/Neutron.png))
+!([figura.png](https://github.com/Pedrmig/Neural-Network-NumberPrediction/blob/main/Neutron.png))
 
 ## Interactive Prediction Tool
 
 The local prediction tool is built using Gradio, allowing users to input handwritten digits and receive predictions from the trained model. 
 Below is an example of the tool's interface:
 
-![Gradio Interface]([figura2.png](https://github.com/Pedrmig/Neural-Network-NumberPrediction/blob/main/GradioInteractivePredictionTool.png))
+!([figura2.png](https://github.com/Pedrmig/Neural-Network-NumberPrediction/blob/main/GradioInteractivePredictionTool.png))
