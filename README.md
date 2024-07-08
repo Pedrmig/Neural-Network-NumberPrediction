@@ -13,7 +13,7 @@ This repository contains a neural network-based prediction model created using t
 The model architecture is visualized using Netron. 
 Below is an example of the visualization:
 
-<img src="Neutron.png.png" alt="Gradio Interface" width="450"/>
+<img src="Neutron.png" alt="Gradio Interface" width="450"/>
 
 ## Interactive Prediction Tool
 
